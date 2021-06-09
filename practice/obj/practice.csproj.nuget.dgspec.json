@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daniellesmith/Projects/practice/practice/practice.csproj": {}
+    "/Users/daniellesmith/Desktop/Coding Notes/Programs/practice/practice/practice.csproj": {}
   },
   "projects": {
-    "/Users/daniellesmith/Projects/practice/practice/practice.csproj": {
+    "/Users/daniellesmith/Desktop/Coding Notes/Programs/practice/practice/practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daniellesmith/Projects/practice/practice/practice.csproj",
+        "projectUniqueName": "/Users/daniellesmith/Desktop/Coding Notes/Programs/practice/practice/practice.csproj",
         "projectName": "practice",
-        "projectPath": "/Users/daniellesmith/Projects/practice/practice/practice.csproj",
+        "projectPath": "/Users/daniellesmith/Desktop/Coding Notes/Programs/practice/practice/practice.csproj",
         "packagesPath": "/Users/daniellesmith/.nuget/packages/",
-        "outputPath": "/Users/daniellesmith/Projects/practice/practice/obj/",
+        "outputPath": "/Users/daniellesmith/Desktop/Coding Notes/Programs/practice/practice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/daniellesmith/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }
