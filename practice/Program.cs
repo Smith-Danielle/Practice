@@ -90,7 +90,7 @@ namespace practice
             double c = 29;
             Console.WriteLine($"Danielle is {c} and Jessie is {b}. But she wishes she was {b}.");*/
 
-            
+
             /* Three ways to convert numbers and contatenate
             Console.WriteLine("Please enter your age:");
             int age = Convert.ToInt32(Console.ReadLine());
@@ -241,6 +241,59 @@ namespace practice
                     Console.WriteLine("age is not set in the program");
                     break;
             }*/
+
+            /* while loop practice
+            Console.WriteLine("Let's count to 10");
+            Console.ReadLine();
+            int num = 1;
+            while (num < 11)
+            {
+                Console.WriteLine(num);
+                num++;
+            }
+
+            Console.WriteLine("What's your name?");
+            string name = Console.ReadLine();
+            Console.WriteLine("How many times would you like to see you name displayed?");
+            int x = Convert.ToInt32(Console.ReadLine());
+            while (x > 0)
+            {
+                Console.WriteLine(name);
+                x--;
+
+            }
+
+            int num = 1;
+            while (++num < 6)
+            {
+                Console.WriteLine(num);
+            }*/
+
+            /* for loop practice 
+            for (int x = 1; x < 5; x++)
+            {
+                Console.WriteLine(x);
+            }
+
+            int y = 1;
+            for ( ; y < 5; y++)
+            {
+                Console.WriteLine(y);
+            }
+
+            int z = 1;
+            for ( ; z < 5; )
+            {
+                Console.WriteLine(z);
+                z++;
+            }*/
+
+
+
+
+
+
+
         }
     }
 

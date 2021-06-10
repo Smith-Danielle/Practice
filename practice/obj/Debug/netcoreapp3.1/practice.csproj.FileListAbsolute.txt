@@ -10,3 +10,15 @@
 /Users/daniellesmith/Projects/practice/practice/obj/Debug/netcoreapp3.1/practice.dll
 /Users/daniellesmith/Projects/practice/practice/obj/Debug/netcoreapp3.1/practice.pdb
 /Users/daniellesmith/Projects/practice/practice/obj/Debug/netcoreapp3.1/practice.genruntimeconfig.cache
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/bin/Debug/netcoreapp3.1/practice.deps.json
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/bin/Debug/netcoreapp3.1/practice.runtimeconfig.json
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/bin/Debug/netcoreapp3.1/practice.runtimeconfig.dev.json
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/bin/Debug/netcoreapp3.1/practice.dll
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/bin/Debug/netcoreapp3.1/practice.pdb
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/obj/Debug/netcoreapp3.1/practice.csprojAssemblyReference.cache
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/obj/Debug/netcoreapp3.1/practice.AssemblyInfoInputs.cache
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/obj/Debug/netcoreapp3.1/practice.AssemblyInfo.cs
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/obj/Debug/netcoreapp3.1/practice.csproj.CoreCompileInputs.cache
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/obj/Debug/netcoreapp3.1/practice.dll
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/obj/Debug/netcoreapp3.1/practice.pdb
+/Users/daniellesmith/Desktop/notes/Programs/practice/practice/obj/Debug/netcoreapp3.1/practice.genruntimeconfig.cache

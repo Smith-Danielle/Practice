@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.practice PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="practice/Program.cs">
     <Files>
-      <File FileName="practice/Program.cs" Line="224" Column="17" />
+      <File FileName="practice/Program.cs" Line="272" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,9 +13,6 @@
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

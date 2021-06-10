@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daniellesmith/Desktop/Coding Notes/Programs/practice/practice/practice.csproj": {}
+    "/Users/daniellesmith/Desktop/notes/Programs/practice/practice/practice.csproj": {}
   },
   "projects": {
-    "/Users/daniellesmith/Desktop/Coding Notes/Programs/practice/practice/practice.csproj": {
+    "/Users/daniellesmith/Desktop/notes/Programs/practice/practice/practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daniellesmith/Desktop/Coding Notes/Programs/practice/practice/practice.csproj",
+        "projectUniqueName": "/Users/daniellesmith/Desktop/notes/Programs/practice/practice/practice.csproj",
         "projectName": "practice",
-        "projectPath": "/Users/daniellesmith/Desktop/Coding Notes/Programs/practice/practice/practice.csproj",
+        "projectPath": "/Users/daniellesmith/Desktop/notes/Programs/practice/practice/practice.csproj",
         "packagesPath": "/Users/daniellesmith/.nuget/packages/",
-        "outputPath": "/Users/daniellesmith/Desktop/Coding Notes/Programs/practice/practice/obj/",
+        "outputPath": "/Users/daniellesmith/Desktop/notes/Programs/practice/practice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/daniellesmith/.config/NuGet/NuGet.Config"
