@@ -255,7 +255,7 @@ namespace practice
             Console.WriteLine("What's your name?");
             string name = Console.ReadLine();
             Console.WriteLine("How many times would you like to see you name displayed?");
-            int x = Convert.ToInt32(Console.ReadLine());
+            int x = int.Parse(Console.ReadLine());
             while (x > 0)
             {
                 Console.WriteLine(name);
@@ -263,7 +263,7 @@ namespace practice
 
             }
 
-            int num = 1;
+            /*int num = 1;
             while (++num < 6)
             {
                 Console.WriteLine(num);
@@ -287,6 +287,60 @@ namespace practice
                 Console.WriteLine(z);
                 z++;
             }*/
+
+            /* Increment practice
+            int x = 2;
+            int y = 3;
+            int z = ++y * x++;
+
+            Console.WriteLine(z);*/
+
+            /* Logical Operator Practice
+            Console.WriteLine("This camp is for children only.");
+            Console.WriteLine("Must be between the ages 5-12.");
+            Console.WriteLine("Please enter your child's age.");
+            int age = int.Parse(Console.ReadLine());
+            bool oldEnough = (age > 6 && age < 13);
+            Console.WriteLine(oldEnough);
+            
+            Console.WriteLine("Please enter your child's age.");
+            int age = int.Parse(Console.ReadLine());
+            bool oldEnough = (age > 6 && age < 13);
+            Console.WriteLine(!oldEnough);*/
+
+            /* Ternary Operators Practice 
+            Console.WriteLine("Please enter a number:");
+            int num = int.Parse(Console.ReadLine());
+            var firstTest = (num % 2 == 0) ? "Your number is even" : "Your number is odd";
+            var secondTest = (num < 10) ? " and it is a single digit." : " and it is larger than one digit.";
+            Console.WriteLine($"{firstTest}{secondTest}");*/
+
+            /* do while loop practice 
+            int a = 0;
+            do
+            {
+                Console.WriteLine(a);
+                a++;
+            }
+            while (a > 5);
+
+            int a = 0;
+            do
+            {
+                Console.WriteLine(a);
+                a++;
+            }
+            while (a < 5);*/
+
+            /* breaks
+            for (int x = 1; x < 8; x++)
+            {
+                if (x > 5)
+                    break;
+                Console.WriteLine(x);
+            }*/
+                
+
 
 
 
